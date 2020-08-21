@@ -237,16 +237,16 @@ Display the contact email address set in the configuration file.
 
 <p id="registration">
   <strong>Registration:</strong>
-  <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7025541" matches with the above code: jQuery("#s_lc_event_7025541")  //-->
+<!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7025541" matches with the above code: jQuery("#s_lc_event_7025541")  //-->
 <a id="s_lc_event_7025541" href="https://libcal.missouri.edu/event/7025541">CLICK TO REGISTER</a>
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_7025541 {
-  background: #4357F0;
-  border: 1px solid #4357F0;
+  background: #1C33E3;
+  border: 1px solid #1C33E3;
   border-radius: 4px;
   color: #FFFFFF;
-  font: 18px Arial, Helvetica, Verdana;
+  font: 11px Arial, Helvetica, Verdana;
   padding: 8px 20px;
   cursor: pointer;
 }
