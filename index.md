@@ -235,6 +235,27 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p id="registration">
+  <strong>Registration:</strong>
+  <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7025541" matches with the above code: jQuery("#s_lc_event_7025541")  //-->
+<a id="s_lc_event_7025541" href="https://libcal.missouri.edu/event/7025541">CLICK TO REGISTER</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7025541 {
+  background: #4357F0;
+  border: 1px solid #4357F0;
+  border-radius: 4px;
+  color: #FFFFFF;
+  font: 18px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7025541:hover {
+  opacity: 0.9;
+}
+</style>
+</p>
+
 <hr/>
 
 {% comment%}
